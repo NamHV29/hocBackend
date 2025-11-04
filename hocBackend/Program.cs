@@ -10,7 +10,7 @@ namespace hocBackend
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("xin chao");
+            Console.WriteLine("xin chao branch hvnam");
         }
     }
 }
